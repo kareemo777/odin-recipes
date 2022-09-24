@@ -6,10 +6,8 @@
 <br />
 <div align="center">
   <a href="www.lyvely.com">
-    <img src="img/logo_white.png" alt="Logo" width="180" height="180">
+    <img src="img/logo_white.png" alt="Logo" width="300" height="300">
   </a>
-
-<h3 align="center">lyvely</h3>
 
   <p align="center">
     lyvely admin panel 
