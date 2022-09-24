@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="www.lyvely.com">
-    <img src="img/logo_white.png" alt="Logo" width="80" height="80">
+    <img src="img/logo_white.png" alt="Logo" width="180" height="180">
   </a>
 
 <h3 align="center">lyvely</h3>
