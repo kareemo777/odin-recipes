@@ -6,13 +6,13 @@
 <br />
 <div align="center">
   <a href="www.lyvely.com">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo_white.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">LV admin panel</h3>
+<h3 align="center">lyvely</h3>
 
   <p align="center">
-    LYVELY admin panel 
+    lyvely admin panel 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
